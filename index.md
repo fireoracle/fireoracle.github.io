@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages ![Image](/images/onlinelogomaker-020120-1401-3489-500.jpg)
 
 You can use the [editor on GitHub](https://github.com/fireoracle/fireoracle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
