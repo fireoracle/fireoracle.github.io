@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages ![Image](/images/onlinelogomaker-020120-1401-3489-500.jpg)
+![Image](/images/onlinelogomaker-020120-1401-3489-500.jpg)
 
-You can use the [editor on GitHub](https://github.com/fireoracle/fireoracle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to the Fire Oracle
+
+In recent decades, wildfires in the United States have increased in frequency and intensity due to rising global temperatures associated with climate change. The ability to predict the burned area of wildfires can minimize the destructive impact of wildfires on communities. The goal of this study is to evaluate the performance of Long short-term memory Convolutional Neural Network (LSTM-CNN) in analyzing spatio-temporal relationships in wildfire propagation shortly after the time of ignition, and predicting wildfire motion in future timesteps. The data acquisition method in this study involves analyzing high- resolution Remote Sensing data to obtain vegetation and burn indices, as well as topographic and weather data. The temporal progression of the wildfire was captured by historic fire perimeters, and sequences of these images were inputs to the LSTM-CNN model.  The model was validated using fire perimeter data from the King Fire in Northern California. The results obtained from this study show that the spatial dynamics of wildfires over time can be learned using LSTM-CNN architectures on readily available satellite images.
 
 ### Markdown
 
